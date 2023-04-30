@@ -113,3 +113,4 @@ function createImgCard({ data: { hits } }) {
     .join('');
   return imgCard;
 }
+// *
